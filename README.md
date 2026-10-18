@@ -21,3 +21,16 @@ au debut error
 <img width="443" height="449" alt="image" src="https://github.com/user-attachments/assets/607f0c96-d213-4016-9cef-3da21cb3ae50" />
 apres j ai detecte le probleme , c est toujours probleme dans le programme et non pas dans le code , je trouve probleme dans les classes , mais a la fin c est resolu 
 <img width="193" height="149" alt="image" src="https://github.com/user-attachments/assets/34a5c220-f262-4264-b0e0-84e6213cd6b1" />
+exercice 5 : nombre complexe
+
+<img width="376" height="139" alt="image" src="https://github.com/user-attachments/assets/4600678e-4fca-4dad-864a-50f37b7c0df6" />
+j ai utilise ces methodes :
+Constructeur Complexe() : initialise la partie réelle et la partie imaginaire.
+
+plus() : additionne deux nombres complexes.
+
+moins() : soustrait un nombre complexe d'un autre.
+
+toString() : permet d'afficher un nombre complexe sous une forme lisible.
+
+
