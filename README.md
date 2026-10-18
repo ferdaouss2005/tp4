@@ -33,4 +33,9 @@ moins() : soustrait un nombre complexe d'un autre.
 
 toString() : permet d'afficher un nombre complexe sous une forme lisible.
 
+Exercice 6 :
+<img width="194" height="167" alt="image" src="https://github.com/user-attachments/assets/70cdcafa-b237-4e48-8bfb-4aed8531cf93" />
 
+Point : représente un point défini par deux coordonnées x et y.
+
+TestPoint : permet de tester la création des points, la translation et le calcul de la distance.
