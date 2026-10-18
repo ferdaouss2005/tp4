@@ -19,5 +19,5 @@ Categorie : contient l’identifiant, le libellé et le code de la catégorie.
 Article : contient l’identifiant, le code, la désignation et la catégorie associée.
 au debut error 
 <img width="443" height="449" alt="image" src="https://github.com/user-attachments/assets/607f0c96-d213-4016-9cef-3da21cb3ae50" />
-apres j ai dfetecte le probleme , c est toujours probleme dans le programme et non pas dans le code , je trouve probleme dans les classes , mais a la fin c est resolu 
+apres j ai detecte le probleme , c est toujours probleme dans le programme et non pas dans le code , je trouve probleme dans les classes , mais a la fin c est resolu 
 <img width="193" height="149" alt="image" src="https://github.com/user-attachments/assets/34a5c220-f262-4264-b0e0-84e6213cd6b1" />
